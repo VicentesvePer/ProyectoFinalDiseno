@@ -1,5 +1,6 @@
-# PatronesDiseno
-
-dotnet add package Newtonsoft.Json --version 13.0.1
-
+# PatronesDiseno - Proyecto Final
 https://refactoring.guru/es/design-patterns
+
+### Integrantes
+* Vicente Santamaría Velasco
+* Rodrigo Marquez
